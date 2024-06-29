@@ -1,5 +1,9 @@
 # Guides
 
+## My Guides
+
+## Thagrol Guides
+
 A collection of guides on using and configuring a Raspberry Pi.
 
 | File | Contents |
